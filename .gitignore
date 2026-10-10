@@ -1,0 +1,6 @@
+_site/
+.venv/
+__pycache__/
+*.pyc
+ledger/ledger.sqlite*
+.DS_Store
