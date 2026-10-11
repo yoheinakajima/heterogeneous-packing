@@ -1,0 +1,11 @@
+plan H01-fidelity-transfer: 320 pending (0 already done)
+  40/320 ... 3s
+  80/320 ... 7s
+  120/320 ... 11s
+  160/320 ... 20s
+  200/320 ... 26s
+  240/320 ... 35s
+  280/320 ... 45s
+  320/320 ... 52s
+done: 320 runs in 52.4s, verified 20, failures 0
+exit=0
